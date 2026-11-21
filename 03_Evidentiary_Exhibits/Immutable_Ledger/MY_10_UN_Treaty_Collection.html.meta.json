@@ -1,0 +1,27 @@
+{
+  "url": "https://treaties.un.org/",
+  "final_url": "https://treaties.un.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 164630,
+  "sha256": "23f4b32323d11b2fc62550daf366042261688783d766f61a227f3fd5094d06a0",
+  "captured_at": "2026-11-21T21:57:47.727550Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Malaysia",
+  "iso": "MY",
+  "title": "UN Treaty Collection",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 22:00:27 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "164630",
+    "Connection": "close",
+    "Set-Cookie": "ASP.NET_SessionId=baq3rgrot4en0sg5ic4a1siu; path=/; secure; HttpOnly; SameSite=Lax",
+    "Cache-Control": "private",
+    "x-frame-options": "SAMEORIGIN",
+    "X-AspNet-Version": "4.0.30319",
+    "Request-Context": "appId=cid-v1:34aefb44-12a4-4541-955a-72cc5cdf4863",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "X-Powered-By": "ASP.NET",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}
